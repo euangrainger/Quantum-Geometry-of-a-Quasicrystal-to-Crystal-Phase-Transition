@@ -133,7 +133,7 @@ hat_outline = [
     hex_pt(0,  0),  hex_pt(-1, -1), hex_pt(0, -2),  hex_pt(2, -2),
     hex_pt(2, -1), hex_pt(4,  -2), hex_pt(5, -1),  hex_pt(4,  0),
     hex_pt(3,  0), hex_pt(2,   2), hex_pt(0,  3),  hex_pt(0,  2),
-    hex_pt(-1,  2), (0, -r3), (2, 0), (3, 1), (1.5, hr3)
+    hex_pt(-1,  2), (0, -r3), (2, 0), (1.5, hr3)
 ]
 
 hat_H1 = HatTile('H1')
